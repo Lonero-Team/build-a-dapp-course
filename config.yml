@@ -1,0 +1,16 @@
+title: Build a DAPP
+description: Getting started with the Decentralized Internet SDK
+template:
+  repo: build-a-dapp-template
+  name: build-a-dapp
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
