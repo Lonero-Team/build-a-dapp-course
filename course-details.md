@@ -1,3 +1,5 @@
+# (THIS IS UNDER CONSTRUCTION) ~ Course not yet finished
+
 This is the description we show on the course page [here](https://lab.github.com/Lonero-Team/build-a-dapp). This first paragraph will be featured at the top of the page so make it great.
 ​
 
