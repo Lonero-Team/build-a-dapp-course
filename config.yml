@@ -26,57 +26,21 @@ steps:
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
-  - title: See configs
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue
-  - title: Create jobs
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue   
   - title: The GridBee Framework
     description: The first step in your course
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
-- title: Building and running
+  - title: Looking at LNRChain
     description: The first step in your course
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
-      - type: closeIssue                          
-- title: Looking at LNRChain
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue      
-- title: Look at the app.js
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue      
-- title: Final Component
+      - type: closeIssue   
+  - title: Module 4 + Closing
     description: The first step in your course
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
-- title: Optional Steps
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue                                                            
-- title: To summarize
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue                                                                  
