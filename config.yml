@@ -11,7 +11,7 @@ steps:
   - title: Intro + Components
     description: The first step in your course
     event: issues.assigned
-    link: '{{ repoUrl }}'
+    link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP1.md'
     actions:
       - type: closeIssue    
   - title: Look at Clusterpost
