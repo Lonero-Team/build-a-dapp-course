@@ -12,7 +12,7 @@ You will learn how to build a pipeline for decentralized and P2P communication i
 This project was created in order to support a new internet. One that is more open, free, and censorship-resistant in comparison to the old internet. An internet that eventually wouldn't need to rely on telecom towers, an outdated grid, or all these other "old school" forms of tech. We believe P2P compatibility is an important part of the future of the net. Grid Computing also plays a role in having a better means of transferring information in a speedy, more cost-efficient and reliable manner.
 
 ## Audiences
-This course is currently really basic. While, it sounds complex, you will just learn about getting started and the basics so you can load the software and be free to experiment on it yourself or build your own DAPPS. Currently this is targetted towards all sorts of developers from Data Engineers, Blockchain Architects, to Data Scientists.
+This course is really introductory. While it sounds complex, you will just be introducted to getting started and the basics so you can load the software and be free to experiment yourself or build your own DAPPS. Currently this is targeted towards all sorts of developers from Data Engineers, Blockchain Architects, to Data Scientists.
 
 ## Careers
 Possible careeer paths that rely on this type of technology can include:
