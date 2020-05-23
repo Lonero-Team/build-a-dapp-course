@@ -17,24 +17,24 @@ steps:
   - title: Look at Clusterpost
     description: The first step in your course
     event: issues.assigned
-    link: '{{ repoUrl }}'
+    link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP2.md'
     actions:
       - type: closeIssue
   - title: The GridBee Framework
     description: The first step in your course
     event: issues.assigned
-    link: '{{ repoUrl }}'
+    link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP3.md'
     actions:
       - type: closeIssue
   - title: Looking at LNRChain
     description: The first step in your course
     event: issues.assigned
-    link: '{{ repoUrl }}'
+    link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP4.md'
     actions:
       - type: closeIssue   
   - title: Module 4 + Closing
     description: The first step in your course
     event: issues.assigned
-    link: '{{ repoUrl }}'
+    link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP5.md'
     actions:
       - type: closeIssue
