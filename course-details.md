@@ -1,1 +1,9 @@
 Welcome to the Decentralized Internet! This course will teach you how to get started on the basics of setting up and building your own decentralized application. You will also learn about the core components of the Decentralized Internet SDK. After you know the basics, you can setup your own blockchain infastructure, a communication network, or an interconnected peer node. Get started today developing on a piece of the future!
+
+## What you should learn?
+
+## About the SDK?
+
+## Audiences
+
+## Careers
