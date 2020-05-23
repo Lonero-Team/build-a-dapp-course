@@ -1,11 +1,1 @@
-# (THIS IS UNDER CONSTRUCTION) ~ Course not yet finished
-
-This is the description we show on the course page [here](https://lab.github.com/Lonero-Team/build-a-dapp). This first paragraph will be featured at the top of the page so make it great.
-​
-
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
-
-
-Include information on how they can reach you for questions about the content or course. 
+Welcome to the Decentralized Internet! This course will teach you how to get started on the basics of setting up and building your own decentralized application. You will also learn about the core components of the Decentralized Internet SDK. After you know the basics, you can setup your own blockchain infastructure, a communication network, or an interconnected peer node. Get started today developing on a piece of the future!

@@ -3,6 +3,7 @@ description: Getting started with the Decentralized Internet SDK
 template:
   repo: build-a-dapp-template
   name: build-a-dapp
+  description: Build Decentralized Web and Distributed Computing Projects
 before:
   - type: createIssue
     title: Welcome!
@@ -13,7 +14,7 @@ steps:
     event: issues.assigned
     link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP1.md'
     actions:
-      - type: closeIssue    
+      - type: closeIssue
   - title: Look at Clusterpost
     description: The first step in your course
     event: issues.assigned
@@ -31,7 +32,7 @@ steps:
     event: issues.assigned
     link: 'https://github.com/Lonero-Team/build-a-dapp-template/blob/master/STEP4.md'
     actions:
-      - type: closeIssue   
+      - type: closeIssue
   - title: Module 4 + Closing
     description: The first step in your course
     event: issues.assigned
